@@ -1,4 +1,2 @@
-HEAD
 Details 1
-Details 2
-6d05d0a2bd1d4021b671b60a8435305aff8e0c21
+Also Details 2
