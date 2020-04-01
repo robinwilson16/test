@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Changes to keep
-=======
-Changes to discard
->>>>>>> 9e4791005559e9b95de7a8498145b48b0f65fb8a
+Changes to disgard
